@@ -16,7 +16,7 @@ dependencies:
   - typing_extensions
   - plotly=5.24.0
   - scikit-mobility
-  - "shapely>=1.8,<2.0"
+  - shapely=1.8.5
   - geopandas
   - tqdm=4.67.1
   - pip=25.0
